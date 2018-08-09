@@ -30,3 +30,6 @@ Further on clicking any of the button or hyperlink representing a machine, follo
 4.	For windows to windows access there is no need for a ssh server running on the system.
 5.	All the computers should be on the same network
 6.	All the computers in the network should have a common username and password.
+    Example : Username -> abc
+              Password -> abc
+              (As used in the code provided)
